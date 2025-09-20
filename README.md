@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-**Algor2ythm-And-Data-Stracture-CA-Y2** is a second-year college assignment focused on implementing fundamental algorithms and data structures. The project aims to provide a practical understanding of how various data structures operate and how algorithms can be applied to solve real-world problems efficiently.
+**Algorythm And Data Stracture CA Y2** is a second-year college assignment focused on implementing fundamental algorithms and data structures. The project aims to provide a practical understanding of how various data structures operate and how algorithms can be applied to solve real-world problems efficiently.
 
 ## 🔧 Features
 
